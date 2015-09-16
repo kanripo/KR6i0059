@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:42.994410
+#+DATE: 2015-08-30 20:08:44.387260
 #+TITLE: 文殊師利問菩薩署經
 #+PROPERTY: CBETA_ID T14n0458
 #+PROPERTY: ID KR6i0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 458
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0059_T_001-0435b> 
 #+PROPERTY: JUAN 1
 ¶
-No.458¶
-
- 文殊師利問菩薩署經¶
+No. 458¶
+文殊師利問菩薩署經¶
 ¶
 後漢月氏三藏支婁迦讖譯¶
 
@@ -197,7 +196,7 @@ No.458¶
 但學要法不學飾，亦不念我以近，亦不念我¶
 以遠。是為三事。」
 
-文陀弗白佛言：「比丘以¶
+文陀佛白佛言：「比丘以¶
 四事學。何謂四事？不念有所從得，亦不念何¶
 所當得，一切如等淨，所持若空。是為四事，¶
 如是學為學怛薩阿竭署。」
